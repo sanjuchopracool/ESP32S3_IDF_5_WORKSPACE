@@ -1,0 +1,36 @@
+{
+  "C_Cpp.intelliSenseEngine": "Tag Parser",
+  "files.associations": {
+    "thread": "cpp",
+    "chrono": "cpp",
+    "*.ipp": "cpp",
+    "*.inc": "c",
+    "*.tcc": "cpp",
+    "tuple": "cpp",
+    "array": "cpp",
+    "deque": "cpp",
+    "list": "cpp",
+    "string": "cpp",
+    "unordered_map": "cpp",
+    "vector": "cpp",
+    "string_view": "cpp",
+    "initializer_list": "cpp",
+    "ostream": "cpp",
+    "functional": "cpp",
+    "typeinfo": "cpp",
+    "optional": "cpp",
+    "istream": "cpp",
+    "ratio": "cpp",
+    "system_error": "cpp",
+    "regex": "cpp",
+    "type_traits": "cpp",
+    "utility": "cpp"
+  },
+  "idf.adapterTargetName": "esp32s2",
+  "idf.openOcdConfigs": [
+    "interface/ftdi/esp32_devkitj_v1.cfg",
+    "target/esp32s2.cfg"
+  ],
+  "idf.flashType": "UART",
+  "idf.port": "/dev/ttyUSB0"
+}

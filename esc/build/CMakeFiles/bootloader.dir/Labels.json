@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/educate/DATA/ESP32S3_IDF_5_WORKSPACE/dshot_esc/build/CMakeFiles/bootloader"
+		},
+		{
+			"file" : "/home/educate/DATA/ESP32S3_IDF_5_WORKSPACE/dshot_esc/build/CMakeFiles/bootloader.rule"
+		},
+		{
+			"file" : "/home/educate/DATA/ESP32S3_IDF_5_WORKSPACE/dshot_esc/build/CMakeFiles/bootloader-complete.rule"
+		},
+		{
+			"file" : "/home/educate/DATA/ESP32S3_IDF_5_WORKSPACE/dshot_esc/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+		},
+		{
+			"file" : "/home/educate/DATA/ESP32S3_IDF_5_WORKSPACE/dshot_esc/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+		},
+		{
+			"file" : "/home/educate/DATA/ESP32S3_IDF_5_WORKSPACE/dshot_esc/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+		},
+		{
+			"file" : "/home/educate/DATA/ESP32S3_IDF_5_WORKSPACE/dshot_esc/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+		},
+		{
+			"file" : "/home/educate/DATA/ESP32S3_IDF_5_WORKSPACE/dshot_esc/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+		},
+		{
+			"file" : "/home/educate/DATA/ESP32S3_IDF_5_WORKSPACE/dshot_esc/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+		},
+		{
+			"file" : "/home/educate/DATA/ESP32S3_IDF_5_WORKSPACE/dshot_esc/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"bootloader"
+		],
+		"name" : "bootloader"
+	}
+}
